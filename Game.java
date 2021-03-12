@@ -504,6 +504,5 @@ public class Game extends JPanel implements ActionListener, MouseListener, KeyLi
 	@Override
 	public void keyReleased(KeyEvent e) {
 		// TODO Auto-generated method stub
-
 	}
 }
